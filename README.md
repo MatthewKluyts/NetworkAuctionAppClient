@@ -8,7 +8,7 @@ Things I learnt while creating the client side:
 - Implementing networked communication using WebSockets for real-time bidding updates.
 - Handling background tasks on seperate threads to avoid blocking the UI.
 - Managing UI state effectively during network interruptions and reconnections.
-- Handling rad and write operations on seperate threads to ensure full-duplex communication.
+- Handling read and write operations on seperate threads to ensure full-duplex communication.
 - Error Handling & Debugging such as identifying and resolving issues like connection failures, bid conflicts, and UI glitches.
 
 
